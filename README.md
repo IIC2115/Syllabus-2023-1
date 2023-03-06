@@ -1,9 +1,5 @@
 # IIC2115 - Programación como Herramienta para la Ingeniería
 
-## Videos y tutoriales
-
-1. [Tutorial Instalación Python y Jupyter](https://www.youtube.com/watch?v=FxHoi_ZRV4s) 
-
 ## Evaluación
 
 1. Las evaluaciones serán efectuadas por medio de laboratorios y participación en clases. Se calculará la nota del curso **N** como:
@@ -15,13 +11,13 @@
 
 ## Calendario 
 
-<details>
+<details open>
    
 <summary>Capítulo 0</summary>
 
 | Instancia | Fecha         | Recursos |
 | :-:       | :-:           | :-:      |
-| Cátedra   | Lunes 06/03  | [Slides](/Material%20de%20clases/00%20-%20Introducción.pdf) [Notebooks Ejemplo](/Material%20de%20clases/notebook_tutorial.ipynb) |
+| Cátedra   | Lunes 06/03  | [Slides](/Material%20de%20clases/00%20-%20Introducción.pdf) - [Ejemplos](/Material%20de%20clases/notebook_tutorial.ipynb) |
    
 </details>
 
